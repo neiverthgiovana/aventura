@@ -2,3 +2,10 @@
 body{
     background-color:palevioletred;
 }
+.passo {
+        display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
